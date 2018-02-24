@@ -1,0 +1,278 @@
+
+>ENSEMBL01 GeneID 01
+
+[Scoring schema]: match=1, mismatch=-1, gap=-1
+[Search Target]: GAAGGTTCCGAATATG
+[Minimum target length]: 13
+[Maximum target length]: 19
+[Maximum allowed error bases]: 3
+[The highest alignment score]: 8
+[The alignments with the highest score]: 1
+
+[1] Seq0 vs. ENSEMBL01
+
+ 615 AAGGTCTTC-AATA 629 [Mapped-length=14 m=11 I=1 D=1 M=1]
+     ||||| | | ||||     
+     AAGGT-TCCGAATA     
+     mmmmmImMmDmmmm     
+
+
+>ENSEMBL02 GeneID 02
+
+[Scoring schema]: match=1, mismatch=-1, gap=-1
+[Search Target]: GAAGGTTCCGAATATG
+[Minimum target length]: 13
+[Maximum target length]: 19
+[Maximum allowed error bases]: 3
+[The highest alignment score]: 8
+[The alignments with the highest score]: 1
+
+[1] Seq0 vs. ENSEMBL02
+
+ 615 AAGGTCTTC-AATA 629 [Mapped-length=14 m=11 I=1 D=1 M=1]
+     ||||| | | ||||     
+     AAGGT-TCCGAATA     
+     mmmmmImMmDmmmm     
+
+
+>ENSEMBL03 GeneID 03
+
+[Scoring schema]: match=1, mismatch=-1, gap=-1
+[Search Target]: GAAGGTTCCGAATATG
+[Minimum target length]: 13
+[Maximum target length]: 19
+[Maximum allowed error bases]: 3
+[The highest alignment score]: -1
+[The alignments with the highest score]: 0
+
+No valid alignment is found for your criteria!
+
+
+>ENSEMBL04 GeneID 04
+
+[Scoring schema]: match=1, mismatch=-1, gap=-1
+[Search Target]: GAAGGTTCCGAATATG
+[Minimum target length]: 13
+[Maximum target length]: 19
+[Maximum allowed error bases]: 3
+[The highest alignment score]: 7
+[The alignments with the highest score]: 1
+
+[1] Seq0 vs. ENSEMBL04
+
+ 89 AGGATAAGAATAT 102 [Mapped-length=13 m=10 I=0 D=0 M=3]
+    ||| |  ||||||     
+    AGGTTCCGAATAT     
+    mmmMmMMmmmmmm     
+
+
+>ENSEMBL05 GeneID 05
+
+[Scoring schema]: match=1, mismatch=-1, gap=-1
+[Search Target]: GAAGGTTCCGAATATG
+[Minimum target length]: 13
+[Maximum target length]: 19
+[Maximum allowed error bases]: 3
+[The highest alignment score]: 7
+[The alignments with the highest score]: 2
+
+[1] Seq0 vs. ENSEMBL05
+
+ 92 AGGATAAGAATAT 105 [Mapped-length=13 m=10 I=0 D=0 M=3]
+    ||| |  ||||||     
+    AGGTTCCGAATAT     
+    mmmMmMMmmmmmm     
+
+[2] Seq1 vs. ENSEMBL05
+
+ 335 AAGG-TCTTAATA 348 [Mapped-length=13 m=10 I=0 D=1 M=2]
+     |||| ||  ||||     
+     AAGGTTCCGAATA     
+     mmmmDmmMMmmmm     
+
+
+>ENSEMBL06 GeneID 06
+
+[Scoring schema]: match=1, mismatch=-1, gap=-1
+[Search Target]: GAAGGTTCCGAATATG
+[Minimum target length]: 13
+[Maximum target length]: 19
+[Maximum allowed error bases]: 3
+[The highest alignment score]: 7
+[The alignments with the highest score]: 1
+
+[1] Seq0 vs. ENSEMBL06
+
+ 55 AGGATAAGAATAT 68 [Mapped-length=13 m=10 I=0 D=0 M=3]
+    ||| |  ||||||    
+    AGGTTCCGAATAT    
+    mmmMmMMmmmmmm    
+
+
+>ENSEMBL07 GeneID 07
+
+[Scoring schema]: match=1, mismatch=-1, gap=-1
+[Search Target]: GAAGGTTCCGAATATG
+[Minimum target length]: 13
+[Maximum target length]: 19
+[Maximum allowed error bases]: 3
+[The highest alignment score]: 7
+[The alignments with the highest score]: 2
+
+[1] Seq0 vs. ENSEMBL07
+
+ 22 AGGATAAGAATAT 35 [Mapped-length=13 m=10 I=0 D=0 M=3]
+    ||| |  ||||||    
+    AGGTTCCGAATAT    
+    mmmMmMMmmmmmm    
+
+[2] Seq1 vs. ENSEMBL07
+
+ 240 GAGAGGTT--GAA 253 [Mapped-length=13 m=10 I=1 D=2 M=0]
+     || |||||  |||     
+     GA-AGGTTCCGAA     
+     mmImmmmmDDmmm     
+
+
+>ENSEMBL08 GeneID 08
+
+[Scoring schema]: match=1, mismatch=-1, gap=-1
+[Search Target]: GAAGGTTCCGAATATG
+[Minimum target length]: 13
+[Maximum target length]: 19
+[Maximum allowed error bases]: 3
+[The highest alignment score]: -1
+[The alignments with the highest score]: 0
+
+No valid alignment is found for your criteria!
+
+
+>ENSEMBL09 GeneID 09
+
+[Scoring schema]: match=1, mismatch=-1, gap=-1
+[Search Target]: GAAGGTTCCGAATATG
+[Minimum target length]: 13
+[Maximum target length]: 19
+[Maximum allowed error bases]: 3
+[The highest alignment score]: 7
+[The alignments with the highest score]: 1
+
+[1] Seq0 vs. ENSEMBL09
+
+ 195 AGGATAAGAATAT 208 [Mapped-length=13 m=10 I=0 D=0 M=3]
+     ||| |  ||||||     
+     AGGTTCCGAATAT     
+     mmmMmMMmmmmmm     
+
+
+>ENSEMBL10 GeneID 10
+
+[Scoring schema]: match=1, mismatch=-1, gap=-1
+[Search Target]: GAAGGTTCCGAATATG
+[Minimum target length]: 13
+[Maximum target length]: 19
+[Maximum allowed error bases]: 3
+[The highest alignment score]: 7
+[The alignments with the highest score]: 1
+
+[1] Seq0 vs. ENSEMBL10
+
+ 22 AGGATAAGAATAT 35 [Mapped-length=13 m=10 I=0 D=0 M=3]
+    ||| |  ||||||    
+    AGGTTCCGAATAT    
+    mmmMmMMmmmmmm    
+
+
+>ENSEMBL11 GeneID 11
+
+[Scoring schema]: match=1, mismatch=-1, gap=-1
+[Search Target]: GAAGGTTCCGAATATG
+[Minimum target length]: 13
+[Maximum target length]: 19
+[Maximum allowed error bases]: 3
+[The highest alignment score]: 7
+[The alignments with the highest score]: 1
+
+[1] Seq0 vs. ENSEMBL11
+
+ 162 AGGATAAGAATAT 175 [Mapped-length=13 m=10 I=0 D=0 M=3]
+     ||| |  ||||||     
+     AGGTTCCGAATAT     
+     mmmMmMMmmmmmm     
+
+
+>ENSEMBL12 GeneID 12
+
+[Scoring schema]: match=1, mismatch=-1, gap=-1
+[Search Target]: GAAGGTTCCGAATATG
+[Minimum target length]: 13
+[Maximum target length]: 19
+[Maximum allowed error bases]: 3
+[The highest alignment score]: -1
+[The alignments with the highest score]: 0
+
+No valid alignment is found for your criteria!
+
+
+>ENSEMBL13 GeneID 13
+
+[Scoring schema]: match=1, mismatch=-1, gap=-1
+[Search Target]: GAAGGTTCCGAATATG
+[Minimum target length]: 13
+[Maximum target length]: 19
+[Maximum allowed error bases]: 3
+[The highest alignment score]: 7
+[The alignments with the highest score]: 1
+
+[1] Seq0 vs. ENSEMBL13
+
+ 262 AAGG-TCTTAATA 275 [Mapped-length=13 m=10 I=0 D=1 M=2]
+     |||| ||  ||||     
+     AAGGTTCCGAATA     
+     mmmmDmmMMmmmm     
+
+
+>ENSEMBL14 GeneID 14
+
+[Scoring schema]: match=1, mismatch=-1, gap=-1
+[Search Target]: GAAGGTTCCGAATATG
+[Minimum target length]: 13
+[Maximum target length]: 19
+[Maximum allowed error bases]: 3
+[The highest alignment score]: -1
+[The alignments with the highest score]: 0
+
+No valid alignment is found for your criteria!
+
+
+>ENSEMBL15 GeneID 16
+
+[Scoring schema]: match=1, mismatch=-1, gap=-1
+[Search Target]: GAAGGTTCCGAATATG
+[Minimum target length]: 13
+[Maximum target length]: 19
+[Maximum allowed error bases]: 3
+[The highest alignment score]: 7
+[The alignments with the highest score]: 3
+
+[1] Seq0 vs. ENSEMBL15
+
+ 22 AGGATAAGAATAT 35 [Mapped-length=13 m=10 I=0 D=0 M=3]
+    ||| |  ||||||    
+    AGGTTCCGAATAT    
+    mmmMmMMmmmmmm    
+
+[2] Seq1 vs. ENSEMBL15
+
+ 195 AGGATAAGAATAT 208 [Mapped-length=13 m=10 I=0 D=0 M=3]
+     ||| |  ||||||     
+     AGGTTCCGAATAT     
+     mmmMmMMmmmmmm     
+
+[3] Seq2 vs. ENSEMBL15
+
+ 334 AAGG-TCTTAATA 347 [Mapped-length=13 m=10 I=0 D=1 M=2]
+     |||| ||  ||||     
+     AAGGTTCCGAATA     
+     mmmmDmmMMmmmm     
+
